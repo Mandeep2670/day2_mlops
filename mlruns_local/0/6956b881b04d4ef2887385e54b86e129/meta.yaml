@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mande/OneDrive/Desktop/day2MLOPS/mlruns_local/0/6956b881b04d4ef2887385e54b86e129/artifacts
+end_time: 1780550407115
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6956b881b04d4ef2887385e54b86e129
+run_name: intelligent-kite-83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550406554
+status: 4
+tags: []
+user_id: mande

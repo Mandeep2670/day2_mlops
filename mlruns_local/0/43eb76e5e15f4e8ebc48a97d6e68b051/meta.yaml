@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/mande/OneDrive/Desktop/day2MLOPS/mlruns_local/0/43eb76e5e15f4e8ebc48a97d6e68b051/artifacts
+end_time: 1780550542684
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 43eb76e5e15f4e8ebc48a97d6e68b051
+run_name: gentle-conch-687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780550517865
+status: 3
+tags: []
+user_id: mande
